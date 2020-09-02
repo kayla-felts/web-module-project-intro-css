@@ -61,10 +61,10 @@ h1{
 }
 .title{
     display:inline-block;
-    width:50%;
+    width:60%;
     border:1px solid black;
-    margin:0 5%;
-    padding:5% 2% 10% 5%;
+    margin:0;
+    padding:5%;
     vertical-align:top;
 }
 img{
@@ -72,5 +72,12 @@ img{
 }
 .title h1{
     text-align:center;
-    font-size:4rem;
+    font-size:5rem;
+}
+.title p{
+    text-align:center;
+}
+.p2{
+    padding:2% 25%;
+    line-height:1.5;
 }
