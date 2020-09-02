@@ -53,3 +53,24 @@ h1{
     padding:0 4%;
     text-align:center;
 }
+.logo{
+    display:inline-block;
+    width:30%;
+    margin:0 2%;
+    border:1px solid black;
+}
+.title{
+    display:inline-block;
+    width:50%;
+    border:1px solid black;
+    margin:0 5%;
+    padding:5% 2% 10% 5%;
+    vertical-align:top;
+}
+img{
+    border-radius:50%;
+}
+.title h1{
+    text-align:center;
+    font-size:4rem;
+}
